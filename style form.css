@@ -1,0 +1,71 @@
+.FORM {
+	color: hwb(0 3% 97%);
+	text-align: center;
+	border: solid rgb(0, 0, 0);
+	border-radius: 25px;
+	background-color: #324261;
+	padding: 25px;
+	margin: auto;
+	margin-top: 100px;
+	width: fit-content;
+	font: 15pt/65px Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+td {
+	color: #d8c393;
+}
+
+.heder-top {
+	width: 890px;
+	color: #324261;
+	text-align: center;
+	border-radius: 24px;
+	background-color: #e2d2ae;
+	font: 13pt/65px Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+	margin: 40px 200px 50px 230px;
+}
+
+a {
+	padding: 22px 33.43px;
+	text-align: center;
+}
+
+/* unvisited link */
+a:link {
+	color: #b9543b;
+	text-decoration: none;
+}
+
+/* visited link */
+a:visited {
+	color: #324261;
+	text-decoration: none;
+}
+
+/* mouse over link */
+a:hover {
+	color: #e9dcbe;
+	background-color: #324261;
+	padding: 22px 33.43px;
+	border-radius: 24px;
+	text-decoration: none;
+}
+
+/* selected link */
+a:active {
+	color: #b9543b;
+	text-decoration: none;
+}
+
+input {
+	background-color: #e2d2ae;
+	padding: 2px 22px;
+}
+
+#button {
+	padding: 1px 35px 1px 35px;
+	background-color: #e2d2ae;
+}
+span {
+	padding: 22px 33.43px;
+}

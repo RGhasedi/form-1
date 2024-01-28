@@ -1,0 +1,40 @@
+body{
+	background: rgb(172,219,219);
+	background: radial-gradient(circle, rgba(172,219,219,1) 0%, rgba(0,0,0,1) 100%);
+}	
+
+.FORM {
+	background: rgb(2,0,36);
+	background: linear-gradient(239deg, rgba(2,0,36,0.4639355742296919) 0%, rgba(53,83,101,1) 35%, rgba(132,183,188,0.6992296918767507) 100%);
+	color: #ffffff;
+	text-align: center;
+	padding: 2em 1em 3em;
+	border: solid rgb(0, 0, 0);
+	border-radius: 25px;
+	margin: auto;
+	margin-top: 100px;
+	width: fit-content;
+	font: 15pt/65px Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+td {
+	color: #ffffff;
+}
+
+
+a {
+	padding: 22px 33.43px;
+	text-align: center;
+}
+
+input {
+	border-radius: 1em;
+	background-color: #accadf;
+	padding: 2px 22px;
+}
+
+#button {
+	padding: .7em 2em;
+	background-color: #ceeb9e;
+	margin-top: 2em;
+}
